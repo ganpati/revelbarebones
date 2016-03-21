@@ -10,7 +10,7 @@ A high-productivity web framework for the [Go language](http://www.golang.org/).
 
    Run with <tt>--help</tt> for options.
 
-### Go to http://localhost:9000/ and you'll see:
+### Go to http://localhost:9001/ and you'll see:
 
 "It works"
 
